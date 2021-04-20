@@ -1,7 +1,7 @@
 # forking
 
 1. Fork this repository
-2. Clone it on your local machine
+2. Clone it to your local machine
 3. Create a new branch called <yourname><lastname>
 4. Modify only the line with your name, specifying your favorite book/movie/music genre
 
