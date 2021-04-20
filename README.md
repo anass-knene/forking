@@ -8,7 +8,7 @@
 # List of Favs
 
 -----------
-Paola - Lord of the Rings (example) 
+Paola - Lord of the Rings 
 -----------
 Hengameh - ?
 -----------
