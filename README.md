@@ -4,7 +4,7 @@
 2. Clone it to your local machine
 3. Open the "forking" project in VS code
 4. Add a new file to the project called yournameLastname.txt (example paolaPastore.txt)
-5. Copy paste the questions below and answer them
+5. Copy paste the questions below in your .txt file and answer them
 6. Push the changes to the main branch
 7. Create a pull request
 
